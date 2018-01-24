@@ -88,4 +88,5 @@ int main(int argc, char* argv[])
 	display(number,sortArray);
 	//cout<<binarySearch(number,sortArray,50)<<"\n";
 	return 0;
+	//TEST
 }
